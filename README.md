@@ -1,2 +1,2 @@
 # tr-ning
-træning
+Det her er en træning
