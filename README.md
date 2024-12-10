@@ -1,2 +1,2 @@
 # tr-ning
-træning
+det her er en træning af Git
